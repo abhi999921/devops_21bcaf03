@@ -8,7 +8,7 @@ And also all the book data will store at the database for easy to add, edit and 
 
 ### Front-End
   (i) PHP <br>
-  (ii) CSS3 <br>
+  (ii) CSS <br>
 
 ### Back-End
   (i) PHP <br>
